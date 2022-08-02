@@ -1,8 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3KGtx8dm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/yo35aymkgnlgfk6t5fcf.png" width="400"></a></p>
 
-## Getting Started
+<h1 align="center">Website TopUp Store</h1>
+<h3 align="center">TopUp Game Apapun disini</h3>
 
-First, run the development server:
+## 🚀 Teknologi yang dipakai:
+
+<p align="center"> 
+    <img src="https://img.icons8.com/fluency-systems-regular/48/FFFFFF/nextjs.png"/>
+    Express JS
+    <img src="https://img.icons8.com/officel/48/000000/react.png"/>
+    <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+    <img src="https://img.icons8.com/color/48/000000/airbnb.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+</p>
+
+## Tentang Project
+Project Latihan yang diikuti berdasarkan Course dan kreatifitas diri sendiri, semoga bisa terus dikembangkan dan diperbaiki seiring berjalannya waktu
+
+## Cara Run Project
+
+Pertama, jalankan Server Development:
 
 ```bash
 npm run dev
@@ -10,25 +28,6 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+lalu Buka : 
+```
+http://localhost:3000
