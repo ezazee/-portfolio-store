@@ -1,5 +1,5 @@
 import React from "react";
-import Image from "Next/Image";
+import Image from "next/image";
 
 export default function SignUpPhoto() {
   return (
